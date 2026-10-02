@@ -1,0 +1,9 @@
+../Core/Src/CLI.c:18:6:UART4_printf	4	static
+../Core/Src/CLI.c:28:5:__io_getchar	16	static
+../Core/Src/CLI.c:35:5:__io_putchar	16	static
+../Core/Src/CLI.c:42:6:UART_Menu	8	static
+../Core/Src/CLI.c:53:6:UART_Menu1	8	static
+../Core/Src/CLI.c:80:6:Menu_Tree	24	static
+../Core/Src/CLI.c:92:6:uart_hal_rx_CLI_buffer_init	8	static
+../Core/Src/CLI.c:103:9:uart_hal_CLI_getchar	16	static
+../Core/Src/CLI.c:132:6:uart_hal_rx_CLI_monitor	8	static

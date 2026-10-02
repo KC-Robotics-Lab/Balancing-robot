@@ -1,0 +1,274 @@
+/opt/st/stm32cubeide_1.15.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.linux64_1.0.100.202403111256/tools/arm-none-eabi/include/c++/12.3.1/bits/std_abs.h:75:3:constexpr float std::abs(float)	16	static
+/opt/st/stm32cubeide_1.15.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.linux64_1.0.100.202403111256/tools/arm-none-eabi/include/c++/12.3.1/cmath:1756:3:constexpr float std::round(float)	16	static
+../Core/Src/MPU6050.cpp:48:1:MPU6050::MPU6050(uint8_t)	16	static
+../Core/Src/MPU6050.cpp:58:6:void MPU6050::initialize(I2C_HandleTypeDef*)	16	static
+../Core/Src/MPU6050.cpp:71:6:bool MPU6050::testConnection(I2C_HandleTypeDef*)	16	static
+../Core/Src/MPU6050.cpp:83:9:uint8_t MPU6050::getAuxVDDIOLevel(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:93:6:void MPU6050::setAuxVDDIOLevel(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:120:9:uint8_t MPU6050::getRate(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:129:6:void MPU6050::setRate(I2C_HandleTypeDef*, uint8_t)	24	static
+../Core/Src/MPU6050.cpp:162:9:uint8_t MPU6050::getExternalFrameSync(I2C_HandleTypeDef*)	32	static
+../Core/Src/MPU6050.cpp:171:6:void MPU6050::setExternalFrameSync(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:202:9:uint8_t MPU6050::getDLPFMode(I2C_HandleTypeDef*)	32	static
+../Core/Src/MPU6050.cpp:214:6:void MPU6050::setDLPFMode(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:237:9:uint8_t MPU6050::getFullScaleGyroRange(I2C_HandleTypeDef*)	32	static
+../Core/Src/MPU6050.cpp:249:6:void MPU6050::setFullScaleGyroRange(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:259:9:uint8_t MPU6050::getAccelXSelfTestFactoryTrim(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:269:9:uint8_t MPU6050::getAccelYSelfTestFactoryTrim(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:279:9:uint8_t MPU6050::getAccelZSelfTestFactoryTrim(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:288:9:uint8_t MPU6050::getGyroXSelfTestFactoryTrim(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:297:9:uint8_t MPU6050::getGyroYSelfTestFactoryTrim(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:306:9:uint8_t MPU6050::getGyroZSelfTestFactoryTrim(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:317:6:bool MPU6050::getAccelXSelfTest(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:325:6:void MPU6050::setAccelXSelfTest(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:332:6:bool MPU6050::getAccelYSelfTest(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:340:6:void MPU6050::setAccelYSelfTest(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:347:6:bool MPU6050::getAccelZSelfTest(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:355:6:void MPU6050::setAccelZSelfTest(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:375:9:uint8_t MPU6050::getFullScaleAccelRange(I2C_HandleTypeDef*)	32	static
+../Core/Src/MPU6050.cpp:383:6:void MPU6050::setFullScaleAccelRange(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:421:9:uint8_t MPU6050::getDHPFMode(I2C_HandleTypeDef*)	32	static
+../Core/Src/MPU6050.cpp:431:6:void MPU6050::setDHPFMode(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:452:9:uint8_t MPU6050::getFreefallDetectionThreshold(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:461:6:void MPU6050::setFreefallDetectionThreshold(I2C_HandleTypeDef*, uint8_t)	24	static
+../Core/Src/MPU6050.cpp:484:9:uint8_t MPU6050::getFreefallDetectionDuration(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:493:6:void MPU6050::setFreefallDetectionDuration(I2C_HandleTypeDef*, uint8_t)	24	static
+../Core/Src/MPU6050.cpp:518:9:uint8_t MPU6050::getMotionDetectionThreshold(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:527:6:void MPU6050::setMotionDetectionThreshold(I2C_HandleTypeDef*, uint8_t)	24	static
+../Core/Src/MPU6050.cpp:548:9:uint8_t MPU6050::getMotionDetectionDuration(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:557:6:void MPU6050::setMotionDetectionDuration(I2C_HandleTypeDef*, uint8_t)	24	static
+../Core/Src/MPU6050.cpp:588:9:uint8_t MPU6050::getZeroMotionDetectionThreshold(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:597:6:void MPU6050::setZeroMotionDetectionThreshold(I2C_HandleTypeDef*, uint8_t)	24	static
+../Core/Src/MPU6050.cpp:619:9:uint8_t MPU6050::getZeroMotionDetectionDuration(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:628:6:void MPU6050::setZeroMotionDetectionDuration(I2C_HandleTypeDef*, uint8_t)	24	static
+../Core/Src/MPU6050.cpp:640:6:bool MPU6050::getTempFIFOEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:649:6:void MPU6050::setTempFIFOEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:658:6:bool MPU6050::getXGyroFIFOEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:667:6:void MPU6050::setXGyroFIFOEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:676:6:bool MPU6050::getYGyroFIFOEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:685:6:void MPU6050::setYGyroFIFOEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:694:6:bool MPU6050::getZGyroFIFOEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:703:6:void MPU6050::setZGyroFIFOEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:713:6:bool MPU6050::getAccelFIFOEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:722:6:void MPU6050::setAccelFIFOEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:731:6:bool MPU6050::getSlave2FIFOEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:740:6:void MPU6050::setSlave2FIFOEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:749:6:bool MPU6050::getSlave1FIFOEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:758:6:void MPU6050::setSlave1FIFOEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:767:6:bool MPU6050::getSlave0FIFOEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:776:6:void MPU6050::setSlave0FIFOEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:797:6:bool MPU6050::getMultiMasterEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:806:6:void MPU6050::setMultiMasterEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:820:6:bool MPU6050::getWaitForExternalSensorEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:829:6:void MPU6050::setWaitForExternalSensorEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:838:6:bool MPU6050::getSlave3FIFOEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:847:6:void MPU6050::setSlave3FIFOEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:860:6:bool MPU6050::getSlaveReadWriteTransitionEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:869:6:void MPU6050::setSlaveReadWriteTransitionEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:901:9:uint8_t MPU6050::getMasterClockSpeed(I2C_HandleTypeDef*)	32	static
+../Core/Src/MPU6050.cpp:909:6:void MPU6050::setMasterClockSpeed(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:956:9:uint8_t MPU6050::getSlaveAddress(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:967:6:void MPU6050::setSlaveAddress(I2C_HandleTypeDef*, uint8_t, uint8_t)	24	static
+../Core/Src/MPU6050.cpp:982:9:uint8_t MPU6050::getSlaveRegister(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:993:6:void MPU6050::setSlaveRegister(I2C_HandleTypeDef*, uint8_t, uint8_t)	24	static
+../Core/Src/MPU6050.cpp:1004:6:bool MPU6050::getSlaveEnabled(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:1015:6:void MPU6050::setSlaveEnabled(I2C_HandleTypeDef*, uint8_t, bool)	32	static
+../Core/Src/MPU6050.cpp:1030:6:bool MPU6050::getSlaveWordByteSwap(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:1041:6:void MPU6050::setSlaveWordByteSwap(I2C_HandleTypeDef*, uint8_t, bool)	32	static
+../Core/Src/MPU6050.cpp:1055:6:bool MPU6050::getSlaveWriteMode(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:1066:6:void MPU6050::setSlaveWriteMode(I2C_HandleTypeDef*, uint8_t, bool)	32	static
+../Core/Src/MPU6050.cpp:1081:6:bool MPU6050::getSlaveWordGroupOffset(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:1092:6:void MPU6050::setSlaveWordGroupOffset(I2C_HandleTypeDef*, uint8_t, bool)	32	static
+../Core/Src/MPU6050.cpp:1103:9:uint8_t MPU6050::getSlaveDataLength(I2C_HandleTypeDef*, uint8_t)	40	static
+../Core/Src/MPU6050.cpp:1114:6:void MPU6050::setSlaveDataLength(I2C_HandleTypeDef*, uint8_t, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:1130:9:uint8_t MPU6050::getSlave4Address(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1139:6:void MPU6050::setSlave4Address(I2C_HandleTypeDef*, uint8_t)	24	static
+../Core/Src/MPU6050.cpp:1149:9:uint8_t MPU6050::getSlave4Register(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1158:6:void MPU6050::setSlave4Register(I2C_HandleTypeDef*, uint8_t)	24	static
+../Core/Src/MPU6050.cpp:1167:6:void MPU6050::setSlave4OutputByte(I2C_HandleTypeDef*, uint8_t)	24	static
+../Core/Src/MPU6050.cpp:1176:6:bool MPU6050::getSlave4Enabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1185:6:void MPU6050::setSlave4Enabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:1197:6:bool MPU6050::getSlave4InterruptEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1206:6:void MPU6050::setSlave4InterruptEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:1218:6:bool MPU6050::getSlave4WriteMode(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1227:6:void MPU6050::setSlave4WriteMode(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:1245:9:uint8_t MPU6050::getSlave4MasterDelay(I2C_HandleTypeDef*)	32	static
+../Core/Src/MPU6050.cpp:1254:6:void MPU6050::setSlave4MasterDelay(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:1263:9:uint8_t MPU6050::getSlate4InputByte(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1279:6:bool MPU6050::getPassthroughStatus(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1291:6:bool MPU6050::getSlave4IsDone(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1302:6:bool MPU6050::getLostArbitration(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1313:6:bool MPU6050::getSlave4Nack(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1324:6:bool MPU6050::getSlave3Nack(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1335:6:bool MPU6050::getSlave2Nack(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1346:6:bool MPU6050::getSlave1Nack(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1357:6:bool MPU6050::getSlave0Nack(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1370:6:bool MPU6050::getInterruptMode(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1380:6:void MPU6050::setInterruptMode(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:1389:6:bool MPU6050::getInterruptDrive(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1399:6:void MPU6050::setInterruptDrive(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:1408:6:bool MPU6050::getInterruptLatch(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1418:6:void MPU6050::setInterruptLatch(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:1427:6:bool MPU6050::getInterruptLatchClear(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1437:6:void MPU6050::setInterruptLatchClear(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:1446:6:bool MPU6050::getFSyncInterruptLevel(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1456:6:void MPU6050::setFSyncInterruptLevel(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:1465:6:bool MPU6050::getFSyncInterruptEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1475:6:void MPU6050::setFSyncInterruptEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:1489:6:bool MPU6050::getI2CBypassEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1504:6:void MPU6050::setI2CBypassEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:1516:6:bool MPU6050::getClockOutputEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1529:6:void MPU6050::setClockOutputEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:1542:9:uint8_t MPU6050::getIntEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1554:6:void MPU6050::setIntEnabled(I2C_HandleTypeDef*, uint8_t)	24	static
+../Core/Src/MPU6050.cpp:1563:6:bool MPU6050::getIntFreefallEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1573:6:void MPU6050::setIntFreefallEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:1582:6:bool MPU6050::getIntMotionEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1592:6:void MPU6050::setIntMotionEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:1601:6:bool MPU6050::getIntZeroMotionEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1611:6:void MPU6050::setIntZeroMotionEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:1620:6:bool MPU6050::getIntFIFOBufferOverflowEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1630:6:void MPU6050::setIntFIFOBufferOverflowEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:1640:6:bool MPU6050::getIntI2CMasterEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1650:6:void MPU6050::setIntI2CMasterEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:1660:6:bool MPU6050::getIntDataReadyEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1670:6:void MPU6050::setIntDataReadyEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:1683:9:uint8_t MPU6050::getIntStatus(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1694:6:bool MPU6050::getIntFreefallStatus(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1705:6:bool MPU6050::getIntMotionStatus(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1716:6:bool MPU6050::getIntZeroMotionStatus(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1727:6:bool MPU6050::getIntFIFOBufferOverflowStatus(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1739:6:bool MPU6050::getIntI2CMasterStatus(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1750:6:bool MPU6050::getIntDataReadyStatus(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1773:6:void MPU6050::getMotion9(I2C_HandleTypeDef*, int16_t*, int16_t*, int16_t*, int16_t*, int16_t*, int16_t*, int16_t*, int16_t*, int16_t*)	40	static
+../Core/Src/MPU6050.cpp:1789:6:void MPU6050::getMotion6(I2C_HandleTypeDef*, int16_t*, int16_t*, int16_t*, int16_t*, int16_t*, int16_t*)	32	static
+../Core/Src/MPU6050.cpp:1834:6:void MPU6050::getAcceleration(I2C_HandleTypeDef*, int16_t*, int16_t*, int16_t*)	32	static
+../Core/Src/MPU6050.cpp:1845:9:int16_t MPU6050::getAccelerationX(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1854:9:int16_t MPU6050::getAccelerationY(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1863:9:int16_t MPU6050::getAccelerationZ(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1874:9:int16_t MPU6050::getTemperature(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1913:6:void MPU6050::getRotation(I2C_HandleTypeDef*, int16_t*, int16_t*, int16_t*)	32	static
+../Core/Src/MPU6050.cpp:1924:9:int16_t MPU6050::getRotationX(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1933:9:int16_t MPU6050::getRotationY(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:1942:9:int16_t MPU6050::getRotationZ(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2023:9:uint8_t MPU6050::getExternalSensorByte(I2C_HandleTypeDef*, int)	32	static
+../Core/Src/MPU6050.cpp:2032:10:uint16_t MPU6050::getExternalSensorWord(I2C_HandleTypeDef*, int)	32	static
+../Core/Src/MPU6050.cpp:2041:10:uint32_t MPU6050::getExternalSensorDWord(I2C_HandleTypeDef*, int)	32	static
+../Core/Src/MPU6050.cpp:2052:9:uint8_t MPU6050::getMotionStatus(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2061:6:bool MPU6050::getXNegMotionDetected(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2070:6:bool MPU6050::getXPosMotionDetected(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2079:6:bool MPU6050::getYNegMotionDetected(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2088:6:bool MPU6050::getYPosMotionDetected(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2097:6:bool MPU6050::getZNegMotionDetected(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2106:6:bool MPU6050::getZPosMotionDetected(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2115:6:bool MPU6050::getZeroMotionDetected(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2130:6:void MPU6050::setSlaveOutputByte(I2C_HandleTypeDef*, uint8_t, uint8_t)	24	static
+../Core/Src/MPU6050.cpp:2145:6:bool MPU6050::getExternalShadowDelayEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2155:6:void MPU6050::setExternalShadowDelayEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:2176:6:bool MPU6050::getSlaveDelayEnabled(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:2188:6:void MPU6050::setSlaveDelayEnabled(I2C_HandleTypeDef*, uint8_t, bool)	32	static
+../Core/Src/MPU6050.cpp:2200:6:void MPU6050::resetGyroscopePath(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2209:6:void MPU6050::resetAccelerometerPath(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2218:6:void MPU6050::resetTemperaturePath(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2238:9:uint8_t MPU6050::getAccelerometerPowerOnDelay(I2C_HandleTypeDef*)	32	static
+../Core/Src/MPU6050.cpp:2248:6:void MPU6050::setAccelerometerPowerOnDelay(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:2277:9:uint8_t MPU6050::getFreefallDetectionCounterDecrement(I2C_HandleTypeDef*)	32	static
+../Core/Src/MPU6050.cpp:2287:6:void MPU6050::setFreefallDetectionCounterDecrement(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:2313:9:uint8_t MPU6050::getMotionDetectionCounterDecrement(I2C_HandleTypeDef*)	32	static
+../Core/Src/MPU6050.cpp:2323:6:void MPU6050::setMotionDetectionCounterDecrement(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:2337:6:bool MPU6050::getFIFOEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2347:6:void MPU6050::setFIFOEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:2361:6:bool MPU6050::getI2CMasterModeEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2371:6:void MPU6050::setI2CMasterModeEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:2378:6:void MPU6050::switchSPIEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:2387:6:void MPU6050::resetFIFO(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2396:6:void MPU6050::resetI2CMaster(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2411:6:void MPU6050::resetSensors(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2422:6:void MPU6050::reset(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2436:6:bool MPU6050::getSleepEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2446:6:void MPU6050::setSleepEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:2457:6:bool MPU6050::getWakeCycleEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2467:6:void MPU6050::setWakeCycleEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:2481:6:bool MPU6050::getTempSensorEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2495:6:void MPU6050::setTempSensorEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:2505:9:uint8_t MPU6050::getClockSource(I2C_HandleTypeDef*)	32	static
+../Core/Src/MPU6050.cpp:2539:6:void MPU6050::setClockSource(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:2568:9:uint8_t MPU6050::getWakeFrequency(I2C_HandleTypeDef*)	32	static
+../Core/Src/MPU6050.cpp:2576:6:void MPU6050::setWakeFrequency(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:2586:6:bool MPU6050::getStandbyXAccelEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2596:6:void MPU6050::setStandbyXAccelEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:2605:6:bool MPU6050::getStandbyYAccelEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2615:6:void MPU6050::setStandbyYAccelEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:2624:6:bool MPU6050::getStandbyZAccelEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2634:6:void MPU6050::setStandbyZAccelEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:2643:6:bool MPU6050::getStandbyXGyroEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2653:6:void MPU6050::setStandbyXGyroEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:2662:6:bool MPU6050::getStandbyYGyroEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2672:6:void MPU6050::setStandbyYGyroEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:2681:6:bool MPU6050::getStandbyZGyroEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2691:6:void MPU6050::setStandbyZGyroEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:2704:10:uint16_t MPU6050::getFIFOCount(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2736:9:uint8_t MPU6050::getFIFOByte(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2740:6:void MPU6050::getFIFOBytes(I2C_HandleTypeDef*, uint8_t*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:2755:8:int8_t MPU6050::GetCurrentFIFOPacket(I2C_HandleTypeDef*, uint8_t*, uint8_t)	72	static
+../Core/Src/MPU6050.cpp:2815:6:void MPU6050::setFIFOByte(I2C_HandleTypeDef*, uint8_t)	24	static
+../Core/Src/MPU6050.cpp:2828:9:uint8_t MPU6050::getDeviceID(I2C_HandleTypeDef*)	32	static
+../Core/Src/MPU6050.cpp:2841:6:void MPU6050::setDeviceID(I2C_HandleTypeDef*, uint8_t)	32	static
+../Core/Src/MPU6050.cpp:2849:9:uint8_t MPU6050::getOTPBankValid(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2853:6:void MPU6050::setOTPBankValid(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:2856:8:int8_t MPU6050::getXGyroOffsetTC(I2C_HandleTypeDef*)	32	static
+../Core/Src/MPU6050.cpp:2860:6:void MPU6050::setXGyroOffsetTC(I2C_HandleTypeDef*, int8_t)	32	static
+../Core/Src/MPU6050.cpp:2866:8:int8_t MPU6050::getYGyroOffsetTC(I2C_HandleTypeDef*)	32	static
+../Core/Src/MPU6050.cpp:2870:6:void MPU6050::setYGyroOffsetTC(I2C_HandleTypeDef*, int8_t)	32	static
+../Core/Src/MPU6050.cpp:2876:8:int8_t MPU6050::getZGyroOffsetTC(I2C_HandleTypeDef*)	32	static
+../Core/Src/MPU6050.cpp:2880:6:void MPU6050::setZGyroOffsetTC(I2C_HandleTypeDef*, int8_t)	32	static
+../Core/Src/MPU6050.cpp:2886:8:int8_t MPU6050::getXFineGain(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2890:6:void MPU6050::setXFineGain(I2C_HandleTypeDef*, int8_t)	24	static
+../Core/Src/MPU6050.cpp:2896:8:int8_t MPU6050::getYFineGain(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2900:6:void MPU6050::setYFineGain(I2C_HandleTypeDef*, int8_t)	24	static
+../Core/Src/MPU6050.cpp:2906:8:int8_t MPU6050::getZFineGain(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2910:6:void MPU6050::setZFineGain(I2C_HandleTypeDef*, int8_t)	24	static
+../Core/Src/MPU6050.cpp:2916:9:int16_t MPU6050::getXAccelOffset(I2C_HandleTypeDef*)	32	static
+../Core/Src/MPU6050.cpp:2921:6:void MPU6050::setXAccelOffset(I2C_HandleTypeDef*, int16_t)	32	static
+../Core/Src/MPU6050.cpp:2928:9:int16_t MPU6050::getYAccelOffset(I2C_HandleTypeDef*)	32	static
+../Core/Src/MPU6050.cpp:2933:6:void MPU6050::setYAccelOffset(I2C_HandleTypeDef*, int16_t)	32	static
+../Core/Src/MPU6050.cpp:2940:9:int16_t MPU6050::getZAccelOffset(I2C_HandleTypeDef*)	32	static
+../Core/Src/MPU6050.cpp:2945:6:void MPU6050::setZAccelOffset(I2C_HandleTypeDef*, int16_t)	32	static
+../Core/Src/MPU6050.cpp:2952:9:int16_t MPU6050::getXGyroOffset(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2956:6:void MPU6050::setXGyroOffset(I2C_HandleTypeDef*, int16_t)	24	static
+../Core/Src/MPU6050.cpp:2962:9:int16_t MPU6050::getYGyroOffset(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2966:6:void MPU6050::setYGyroOffset(I2C_HandleTypeDef*, int16_t)	24	static
+../Core/Src/MPU6050.cpp:2972:9:int16_t MPU6050::getZGyroOffset(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2976:6:void MPU6050::setZGyroOffset(I2C_HandleTypeDef*, int16_t)	24	static
+../Core/Src/MPU6050.cpp:2982:6:bool MPU6050::getIntPLLReadyEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2986:6:void MPU6050::setIntPLLReadyEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:2989:6:bool MPU6050::getIntDMPEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:2993:6:void MPU6050::setIntDMPEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:2999:6:bool MPU6050::getDMPInt5Status(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:3003:6:bool MPU6050::getDMPInt4Status(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:3007:6:bool MPU6050::getDMPInt3Status(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:3011:6:bool MPU6050::getDMPInt2Status(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:3015:6:bool MPU6050::getDMPInt1Status(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:3019:6:bool MPU6050::getDMPInt0Status(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:3026:6:bool MPU6050::getIntPLLReadyStatus(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:3030:6:bool MPU6050::getIntDMPStatus(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:3037:6:bool MPU6050::getDMPEnabled(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:3041:6:void MPU6050::setDMPEnabled(I2C_HandleTypeDef*, bool)	32	static
+../Core/Src/MPU6050.cpp:3044:6:void MPU6050::resetDMP(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:3050:6:void MPU6050::setMemoryBank(I2C_HandleTypeDef*, uint8_t, bool, bool)	24	static
+../Core/Src/MPU6050.cpp:3059:6:void MPU6050::setMemoryStartAddress(I2C_HandleTypeDef*, uint8_t)	24	static
+../Core/Src/MPU6050.cpp:3065:9:uint8_t MPU6050::readMemoryByte(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:3069:6:void MPU6050::writeMemoryByte(I2C_HandleTypeDef*, uint8_t)	24	static
+../Core/Src/MPU6050.cpp:3072:6:void MPU6050::readMemoryBlock(I2C_HandleTypeDef*, uint8_t*, uint16_t, uint8_t, uint8_t)	40	static
+../Core/Src/MPU6050.cpp:3103:6:bool MPU6050::writeMemoryBlock(I2C_HandleTypeDef*, const uint8_t*, uint16_t, uint8_t, uint8_t, bool, bool)	48	static
+../Core/Src/MPU6050.cpp:3179:6:bool MPU6050::writeProgMemoryBlock(I2C_HandleTypeDef*, const uint8_t*, uint16_t, uint8_t, uint8_t, bool)	40	static
+../Core/Src/MPU6050.cpp:3182:6:bool MPU6050::writeDMPConfigurationSet(I2C_HandleTypeDef*, const uint8_t*, uint16_t, bool)	56	static
+../Core/Src/MPU6050.cpp:3258:6:bool MPU6050::writeProgDMPConfigurationSet(I2C_HandleTypeDef*, const uint8_t*, uint16_t)	32	static
+../Core/Src/MPU6050.cpp:3264:9:uint8_t MPU6050::getDMPConfig1(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:3268:6:void MPU6050::setDMPConfig1(I2C_HandleTypeDef*, uint8_t)	24	static
+../Core/Src/MPU6050.cpp:3274:9:uint8_t MPU6050::getDMPConfig2(I2C_HandleTypeDef*)	24	static
+../Core/Src/MPU6050.cpp:3278:6:void MPU6050::setDMPConfig2(I2C_HandleTypeDef*, uint8_t)	24	static
+../Core/Src/MPU6050.cpp:3289:6:void MPU6050::CalibrateGyro(I2C_HandleTypeDef*, uint8_t)	56	static
+../Core/Src/MPU6050.cpp:3303:6:void MPU6050::CalibrateAccel(I2C_HandleTypeDef*, uint8_t)	40	static
+../Core/Src/MPU6050.cpp:3315:6:void MPU6050::PID(I2C_HandleTypeDef*, uint8_t, float, float, uint8_t)	120	static
+../Core/Src/MPU6050.cpp:3412:6:void MPU6050::PrintActiveOffsets(I2C_HandleTypeDef*)	32	static

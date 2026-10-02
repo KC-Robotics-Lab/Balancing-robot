@@ -1,0 +1,10 @@
+../Core/Src/ModbusRTU_Master.c:13:13:sendMessage	24	static
+../Core/Src/ModbusRTU_Master.c:32:13:takeMessage	24	static
+../Core/Src/ModbusRTU_Master.c:78:13:Modbus_ReadHoldingRegister	56	static
+../Core/Src/ModbusRTU_Master.c:129:13:Modbus_WriteSingleRegister	56	static
+../Core/Src/ModbusRTU_Master.c:174:13:Modbus_ReadCoil	64	static
+../Core/Src/ModbusRTU_Master.c:234:13:Modbus_WriteSingleCoil	56	static
+../Core/Src/ModbusRTU_Master.c:277:13:Modbus_WriteMultipleCoils	64	static
+../Core/Src/ModbusRTU_Master.c:329:13:Modbus_WriteMultipleRegisters	88	static
+../Core/Src/ModbusRTU_Master.c:368:9:findByte	24	static
+../Core/Src/ModbusRTU_Master.c:385:10:MODBUS_CRC16	32	static
